@@ -1,0 +1,5 @@
+*.log
+error1.txt
+error2.txt
+dir/
+static/
