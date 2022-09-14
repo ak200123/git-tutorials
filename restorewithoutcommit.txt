@@ -1,0 +1,2 @@
+so, i want to do some changes in this file 
+and i saved this file without commit and how it looks after checking git status
